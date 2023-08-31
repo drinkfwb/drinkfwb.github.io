@@ -1,0 +1,38 @@
+body {
+	background-color: #1287A8;
+	color:#ffffff;
+	font-family: 'Phudu', cursive;
+}
+
+#hero-text {
+	text-align: center;
+}
+
+.body-text {
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top: 10%;
+}
+
+.klaviyo-form-W8NnW7 {
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.brand {
+	font-style: italic;
+	font-weight: 500;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+p {
+	font-size: 24px;
+}
+
+
+a {
+	color: #ADD8E6;
+}
