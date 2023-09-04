@@ -1,7 +1,37 @@
 body {
-	background-color: #1287A8;
+	/* background-color: #1287A8; */
+	background-color: #36c9c6;
 	color:#ffffff;
-	font-family: 'Phudu', cursive;
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	font-size: 48px;
+
+}
+
+#h2 {
+	font-size: 30px;
+	text-align: center;
+	font-style: normal;
+	font-weight: 300;
+}
+
+p {
+	font-size: 24px;
+}
+
+
+a {
+	color: #ADD8E6;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 #hero-text {
@@ -20,19 +50,8 @@ body {
 }
 
 .brand {
-	font-style: italic;
-	font-weight: 500;
-}
-
-h1 {
-	font-size: 48px;
-}
-
-p {
-	font-size: 24px;
-}
-
-
-a {
-	color: #ADD8E6;
+	font-style: bold;
+	font-weight: 700;
+	font-size: 96px;
+	text-align: center;
 }
